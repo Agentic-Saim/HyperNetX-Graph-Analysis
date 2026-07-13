@@ -1,4 +1,4 @@
-
+﻿
 <div align="center">
   <h1>HyperNetX</h1>
   <p>
@@ -463,8 +463,8 @@ Released under the [3-Clause BSD license](LICENSE.rst)
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
